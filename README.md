@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Lavinscky
 - 👀 I’m interested in phyton e javascript
-- 🌱 I’m currently learning phyton e javascript
+- 🌱 I’m currently learning  phyton e javascript
 -
 
 
